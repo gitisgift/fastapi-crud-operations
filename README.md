@@ -1,4 +1,4 @@
-# fastapi-rud-operations
+# fastapi-crud-operations
 
 For setting up this project
 
